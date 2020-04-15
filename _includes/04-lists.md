@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Programming
+* Movies and TV Series
+* ...
